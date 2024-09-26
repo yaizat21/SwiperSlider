@@ -1,0 +1,6 @@
+:host {
+    display: block;
+}
+.slide-custom {
+    @apply h-[240px] flex justify-center items-center bg-purple-950 text-white font-semibold;
+}
